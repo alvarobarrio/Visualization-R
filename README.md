@@ -1,10 +1,12 @@
-# Visualization-UberDataAnalysis. Práctica de aprendizaje No Supervisado con K-Means
+# Visualization-UberDataAnalysis. Práctica de visualización
 
 ### Code: Únicamente el código en R
 ### Data: https://drive.google.com/file/d/1emopjfEkTt59jJoBH9L9bSdmlDC4AR87/view
+### Final PDF with images: Soon
 ___
 
 Código: [GitHub](https://github.com/alvarobarrio)
+
 
 
 Analizaremos el conjunto de datos de Uber Pickups en la ciudad de Nueva York. Este es un proyecto de visualización para comprender los datos y a los clientes que realizan los viajes.
