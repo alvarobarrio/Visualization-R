@@ -1,8 +1,9 @@
 # Visualization-UberDataAnalysis. Práctica de visualización
 
-### Code: Únicamente el código en R
-### Data: https://drive.google.com/file/d/1emopjfEkTt59jJoBH9L9bSdmlDC4AR87/view
-### Final PDF with images: Soon
+#### PDF - Full practice with images: Práctica completa con explicaciones, gráficos y salidas de R
+#### Code: Únicamente el código en R
+#### Data: https://drive.google.com/file/d/1emopjfEkTt59jJoBH9L9bSdmlDC4AR87/view
+
 ___
 
 Código: [GitHub](https://github.com/alvarobarrio)
